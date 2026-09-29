@@ -8,6 +8,11 @@ I'm a Computer Science student at the University of Washington interested in ful
 - Helped build Mobius end-to-end as it grew to 700+ users
 - Midnight Hackathon winner for MedProof, a privacy-preserving healthcare research platform
 
+## 🚧 Currently Working On
+
+### Pulse
+Building a **distributed event-streaming platform in Java from the ground up**
+
 ### Technologies
 Python • Java • TypeScript • JavaScript • React • AWS • SQL • C/C++
 
