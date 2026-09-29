@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Rishit 👋
 
-<!--
-**rishitbalaji/rishitbalaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Washington interested in full-stack, backend, cloud, and applied AI/ML engineering.
 
-Here are some ideas to get you started:
+### Experience
+- Software Engineering Intern @ Capital One
+- Built production full-stack features using React, TypeScript, Python, and AWS
+- Helped build Mobius end-to-end as it grew to 700+ users
+- Midnight Hackathon winner for MedProof, a privacy-preserving healthcare research platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+Python • Java • TypeScript • JavaScript • React • AWS • SQL • C/C++
+
+### Interests
+Full-stack engineering • Backend systems • Cloud infrastructure • Applied AI/ML
