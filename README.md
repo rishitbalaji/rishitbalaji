@@ -11,9 +11,9 @@ I'm a Computer Science student at the University of Washington interested in ful
 
 ## 🚧 Currently Working On
 
-### Pulse
+### Scout
 
-Building a **distributed event-streaming platform in Java from the ground up**.
+Building an AI agent that answers questions about GitHub repositories with cited file and line references. Built with Java/Spring Boot on Google Cloud (Cloud Run, Pub/Sub, Cloud SQL), using Gemini function calling over a pgvector hybrid-search index, plus an evaluation harness to measure retrieval quality, latency, and cost.
 
 ## Technologies
 
